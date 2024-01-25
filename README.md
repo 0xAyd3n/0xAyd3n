@@ -2,7 +2,7 @@
 
 <p>Salut! 👋 Here Ayden Gousse, full stack developer from France trying to keep this profile interesting for the community!</p>
 
-#### 🌐 Full Stack Dev <img  align="right" src="https://github-readme-stats.vercel.app/api?username=0xAyd3n&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=stars,prs"   />
+#### 🌐 Full Stack Dev <img  align="right" src="https://github.com/0xAyd3n/0xAyd3n/assets/157597647/c023feea-9e0d-4574-b64d-3bc3e8bf4a8c"   />
 
 Yo, I'm a code wizard. Clean code, slick design, and user-centric vibes are my jam.
 
